@@ -1,0 +1,6 @@
+08:11:39.054 [main] INFO  resources.base - Navigated to Home page
+08:28:00.867 [main] INFO  resources.base - Driver is initialized
+08:28:02.223 [main] INFO  resources.base - Navigated to Home page
+08:28:52.077 [main] INFO  resources.base - Verified the news url successfully!
+08:28:54.812 [main] INFO  resources.base - get the current month
+08:28:54.812 [main] INFO  resources.base - get the current day of the month
